@@ -18,9 +18,12 @@ M.S. student at **OCTOLAB** (Distributed Space Systems Lab), Korea Aerospace Uni
 - **M.S., AI & Space Systems Convergence** — Korea Aerospace University (advisor: Prof. Jijoong Yoon, OCTOLAB)
 - **B.S., Software Engineering** — Korea Aerospace University
 
+## Programming Language
+`Python` · `C` · `C++` · `Kotlin` · `JAVA` · `Javascript` · `MATLAB`
+
 ## 🛠️ Tools
 
-`PyTorch` · `Python` · `Federated Learning (Flower / custom simulators)` · `LaTeX` · `[기타 추가]`
+`PyTorch` · `Pysyft` · `Federated Learning (Flower / custom simulators)` · `LaTeX` · `MATLAB` · `Docker` · `JIRA` · `Confluence` · `Slack`
 
 ## 📫 Contact
 
