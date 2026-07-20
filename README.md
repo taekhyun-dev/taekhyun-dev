@@ -15,7 +15,7 @@ M.S. student at **OCTOLAB** (Distributed Space Systems Lab), Korea Aerospace Uni
 
 ## 🎓 Education
 
-- **M.S., AI & Space Systems Convergence** — Korea Aerospace University (advisor: Prof. Jijoong Yoon, OCTOLAB)
+- **M.S., AI & Space Systems Convergence** — Korea Aerospace University (advisor: Prof. Zizung Yoon, OCTOLAB)
 - **B.S., Software Engineering** — Korea Aerospace University
 
 ## Programming Language
